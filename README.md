@@ -41,6 +41,7 @@
 | **[Canva AI](https://www.canva.com)** | 🆓 Free plan | Templates, social media graphics | ¥20-100/project |
 | **[Leonardo.ai](https://leonardo.ai)** | 🆓 150 tokens/day | Game assets, character design | ¥30-300/project |
 | **[Tongyi Wanxiang](https://tongyi.aliyun.com/wanxiang)** | 🆓 Free | E-commerce product images | ¥50-300/project |
+| **[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)** | 제한된 무료 크레딧 · 유료 옵션 | Ficory LLC의 기업급 만화 리더는 개인 사용자에게 일괄 번역과 맞춤 번역을 제공합니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기로 페이지를 다듬을 수 있습니다. 개발자는 API를 개인 작업 흐름에 연결할 수 있으며, 제품은 지원하는 모든 번역 언어를 제공합니다. | 요금은 작업별로 다름; 수익 추정 없음 |
 
 ### 🎬 Video & Short Drama
 
